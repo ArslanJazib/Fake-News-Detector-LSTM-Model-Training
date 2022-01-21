@@ -259,3 +259,12 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/LSTM_Tester/Datasets/Fake.csv
+/LSTM_Tester/Datasets/preprocessed_titletrainingData.csv
+/LSTM_Tester/Datasets/preprocessed_trainingData.csv
+/LSTM_Tester/Datasets/REAL_DATA.csv
+/LSTM_Tester/Datasets/test.csv
+/LSTM_Tester/Datasets/testingDataset.csv
+/LSTM_Tester/Datasets/titletrainingDataset.csv
+/LSTM_Tester/Datasets/train.csv
+/LSTM_Tester/Datasets/trainingDataset.csv
